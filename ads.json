@@ -1,1 +1,15 @@
-{}
+{
+    "my_awesome_project": {
+        "gh_author": "SafinWasi",
+        "gh_repo_path": "ads-testing",
+        "project_name": "my_awesome_project",
+        "version": "0.0.1",
+        "author": "SafinWasi",
+        "author_website": "https://github.com/SafinWasi/ads-testing",
+        "github_uri": "https://github.com/SafinWasi/ads-testing",
+        "project_description": "Awesome description here",
+        "license": "MIT",
+        "last_updated": "1674848239025",
+        "project_type": "community"
+    }
+}
