@@ -11,5 +11,18 @@
         "license": "string",
         "last_updated": "string",
         "project_type": "string"
+    },
+    "my_project_two": {
+        "gh_author": "safinwasi",
+        "gh_repo_path": "ads-testing",
+        "project_name": "my_project_two",
+        "version": "string",
+        "author": "string",
+        "author_website": "string",
+        "github_uri": "string",
+        "project_description": "string",
+        "license": "string",
+        "last_updated": "string",
+        "project_type": "string"
     }
 }
