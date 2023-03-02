@@ -11,6 +11,10 @@
         "license": "string",
         "last_updated": "string",
         "project_type": "string",
-        "a": "b"
+        "a": "b",
+        "c": {
+            "d": "e",
+            "f": "g"
+        }
     }
 }
