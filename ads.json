@@ -10,6 +10,9 @@
         "project_description": "string",
         "license": "string",
         "last_updated": "string",
-        "project_type": "string"
+        "project_type": "string",
+        "configs": {
+            "test": "test"
+        }
     }
 }
